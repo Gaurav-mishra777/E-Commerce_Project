@@ -32,7 +32,6 @@ export const ShopCategory = (props) => {
               />
             );
           } else {
-            console.log("no data");
             return null;
           }
         })}
